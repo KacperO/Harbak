@@ -1,26 +1,23 @@
-import React from 'react';
+import React, { Fragment } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import {
+  Route,
+  Switch,
+  RouteComponentProps,
+  withRouter
+} from "react-router-dom";
+import HomePage from './features/home/home';
+import { NavBar } from './features/toolbar/NavBar';
 
-function App() {
+
+const App: React.FC<RouteComponentProps> = ({location}) => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+  <Fragment>
+    <NavBar/>
+    <HomePage/>
+  </Fragment>
   );
 }
 
-export default App;
+export default withRouter(App);
