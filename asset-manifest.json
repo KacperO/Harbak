@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Harbak/static/css/main.4eb2820f.chunk.css",
-    "main.js": "/Harbak/static/js/main.5db3867a.chunk.js",
-    "main.js.map": "/Harbak/static/js/main.5db3867a.chunk.js.map",
+    "main.js": "/Harbak/static/js/main.a88746a0.chunk.js",
+    "main.js.map": "/Harbak/static/js/main.a88746a0.chunk.js.map",
     "runtime-main.js": "/Harbak/static/js/runtime-main.bfac53f3.js",
     "runtime-main.js.map": "/Harbak/static/js/runtime-main.bfac53f3.js.map",
     "static/js/2.d9c1aba8.chunk.js": "/Harbak/static/js/2.d9c1aba8.chunk.js",
     "static/js/2.d9c1aba8.chunk.js.map": "/Harbak/static/js/2.d9c1aba8.chunk.js.map",
     "index.html": "/Harbak/index.html",
-    "precache-manifest.7a9e4ac5d78b60ab511760158fc44e23.js": "/Harbak/precache-manifest.7a9e4ac5d78b60ab511760158fc44e23.js",
+    "precache-manifest.92130aff56f7422a38eab2c53bd60572.js": "/Harbak/precache-manifest.92130aff56f7422a38eab2c53bd60572.js",
     "service-worker.js": "/Harbak/service-worker.js",
     "static/css/main.4eb2820f.chunk.css.map": "/Harbak/static/css/main.4eb2820f.chunk.css.map",
     "static/js/2.d9c1aba8.chunk.js.LICENSE.txt": "/Harbak/static/js/2.d9c1aba8.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.bfac53f3.js",
     "static/js/2.d9c1aba8.chunk.js",
     "static/css/main.4eb2820f.chunk.css",
-    "static/js/main.5db3867a.chunk.js"
+    "static/js/main.a88746a0.chunk.js"
   ]
 }

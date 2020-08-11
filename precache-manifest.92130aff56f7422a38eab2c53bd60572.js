@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c93330811c47689d534c1aa41c6f8619",
+    "revision": "59123467412a361e369398bae9804f30",
     "url": "/Harbak/index.html"
   },
   {
-    "revision": "1fb73191766ef3669d05",
+    "revision": "671f6aed4387a46d57c1",
     "url": "/Harbak/static/css/main.4eb2820f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Harbak/static/js/2.d9c1aba8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1fb73191766ef3669d05",
-    "url": "/Harbak/static/js/main.5db3867a.chunk.js"
+    "revision": "671f6aed4387a46d57c1",
+    "url": "/Harbak/static/js/main.a88746a0.chunk.js"
   },
   {
     "revision": "5d9b02da2c241a258f04",
