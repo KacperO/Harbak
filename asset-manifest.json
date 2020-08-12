@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/Harbak/static/css/main.4eb2820f.chunk.css",
-    "main.js": "/Harbak/static/js/main.2b001ee8.chunk.js",
-    "main.js.map": "/Harbak/static/js/main.2b001ee8.chunk.js.map",
+    "main.css": "/Harbak/static/css/main.b431c920.chunk.css",
+    "main.js": "/Harbak/static/js/main.8114f62e.chunk.js",
+    "main.js.map": "/Harbak/static/js/main.8114f62e.chunk.js.map",
     "runtime-main.js": "/Harbak/static/js/runtime-main.bfac53f3.js",
     "runtime-main.js.map": "/Harbak/static/js/runtime-main.bfac53f3.js.map",
-    "static/js/2.d9c1aba8.chunk.js": "/Harbak/static/js/2.d9c1aba8.chunk.js",
-    "static/js/2.d9c1aba8.chunk.js.map": "/Harbak/static/js/2.d9c1aba8.chunk.js.map",
+    "static/js/2.29fcd001.chunk.js": "/Harbak/static/js/2.29fcd001.chunk.js",
+    "static/js/2.29fcd001.chunk.js.map": "/Harbak/static/js/2.29fcd001.chunk.js.map",
     "index.html": "/Harbak/index.html",
-    "precache-manifest.50f19589efb4cfb3565590c48b145c69.js": "/Harbak/precache-manifest.50f19589efb4cfb3565590c48b145c69.js",
+    "precache-manifest.be4cdde9cbad6ee2fb50c9d28842cd4b.js": "/Harbak/precache-manifest.be4cdde9cbad6ee2fb50c9d28842cd4b.js",
     "service-worker.js": "/Harbak/service-worker.js",
-    "static/css/main.4eb2820f.chunk.css.map": "/Harbak/static/css/main.4eb2820f.chunk.css.map",
-    "static/js/2.d9c1aba8.chunk.js.LICENSE.txt": "/Harbak/static/js/2.d9c1aba8.chunk.js.LICENSE.txt"
+    "static/css/main.b431c920.chunk.css.map": "/Harbak/static/css/main.b431c920.chunk.css.map",
+    "static/js/2.29fcd001.chunk.js.LICENSE.txt": "/Harbak/static/js/2.29fcd001.chunk.js.LICENSE.txt",
+    "static/media/lampa.jpg": "/Harbak/static/media/lampa.7a99c85e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.bfac53f3.js",
-    "static/js/2.d9c1aba8.chunk.js",
-    "static/css/main.4eb2820f.chunk.css",
-    "static/js/main.2b001ee8.chunk.js"
+    "static/js/2.29fcd001.chunk.js",
+    "static/css/main.b431c920.chunk.css",
+    "static/js/main.8114f62e.chunk.js"
   ]
 }
